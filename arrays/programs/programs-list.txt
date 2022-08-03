@@ -1,0 +1,5 @@
+Program1: Program to add all the elements of array and display the sum
+Program2: Program to Find Average in array Using Array
+Program3: Program to find Smallest Number in Array
+Program4: Program to find Largest Number in Array
+Program5: Program to sort an Array
